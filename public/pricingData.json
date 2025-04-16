@@ -1,0 +1,50 @@
+[
+  {
+    "id":1,
+    "name": "Basic",
+    "price": "$30/month",
+    "description": "Ideal for beginners or casual gym-goers who need access to essential equipment and facilities during standard hours.",
+    "features": [
+      "Access to gym equipment (6 AM – 10 PM)",
+      "Locker room access",
+      "1 free guest pass per month",
+      "Standard support",
+      "Fitness assessment (1x)",
+      "Access to mobile app for class booking"
+    ]
+  },
+  {
+    "id":2,
+    "name": "Standard",
+    "price": "$50/month",
+    "description": "Perfect for regular users who want full-day access, group classes, and wellness extras to stay motivated.",
+    "features": [
+      "24/7 access to gym facilities",
+      "Access to all fitness classes",
+      "Free Wi-Fi",
+      "3 guest passes per month",
+      "Nutrition guide (PDF)",
+      "Priority customer support",
+      "Monthly fitness challenges",
+      "Access to virtual classes",
+      "Group training sessions (2/month)"
+    ]
+  },
+  {
+    "id":3,
+    "name": "Premium",
+    "price": "$80/month",
+    "description": "Best for fitness enthusiasts looking for personalized training, recovery tools, and premium-class access.",
+    "features": [
+      "Everything in Standard",
+      "1-on-1 personal training (1 session/month)",
+      "Body composition analysis",
+      "Sauna & steam room access",
+      "5 guest passes per month",
+      "Access to premium classes (e.g. boxing, Pilates reformer)",
+      "Free gym merchandise (t-shirt, shaker)",
+      "Dedicated fitness coach",
+      "Recovery area access (massage guns, foam rollers)"
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+
+[
+    {
+      "id": 1,
+      "name": "Student A",
+      "marks":{
+      "physics": 78,
+      "chemistry": 82,
+      "math": 91}
+    },
+    {
+      "id": 2,
+      "name": "Student B",
+      "marks":{
+      "physics": 85,
+      "chemistry": 79,
+      "math": 88}
+    },
+    {
+      "id": 3,
+      "name": "Student C",
+      "marks":{
+      "physics": 92,
+      "chemistry": 87,
+      "math": 94}
+    },
+    {
+      "id": 4,
+      "name": "Student D",
+      "marks":{
+      "physics": 67,
+      "chemistry": 72,
+      "math": 70}
+    },
+    {
+      "id": 5,
+      "name": "Student E",
+      "marks":{
+      "physics": 74,
+      "chemistry": 76,
+      "math": 80}
+    },
+    {
+      "id": 6,
+      "name": "Student F",
+      "marks":{
+      "physics": 88,
+      "chemistry": 90,
+      "math": 85}
+    },
+    {
+      "id": 7,
+      "name": "Student G",
+      "marks":{
+      "physics": 81,
+      "chemistry": 84,
+      "math": 78}
+    },
+    {
+      "id": 8,
+      "name": "Student H",
+      "marks":{
+      "physics": 90,
+      "chemistry": 89,
+      "math": 93}
+    },
+    {
+      "id": 9,
+      "name": "Student I",
+      "marks":{
+      "physics": 69,
+      "chemistry": 71,
+      "math": 75}
+    },
+    {
+      "id": 10,
+      "name": "Student J",
+      "marks":{
+      "physics": 76,
+      "chemistry": 77,
+      "math": 82}
+    }
+  ]
+  
